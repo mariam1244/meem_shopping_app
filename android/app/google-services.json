@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227395101567",
+    "project_id": "meem-shopping-app",
+    "storage_bucket": "meem-shopping-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227395101567:android:78c93b95a64bf93de6304a",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSwbAouC9hCZW-6aK_ZsdbmcfXSOqEEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
